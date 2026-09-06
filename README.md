@@ -69,4 +69,4 @@ hardware    Horizon J6 E/M · MDC610 · Jetson · ESP32 · Altium
 [LinkedIn](https://www.linkedin.com/in/mersad-masoud) ·
 <mersadmasoud@gmail.com>
 
-> **Life · Robots · Liberty**, a free Persian-language robotics series on YouTube, made because no proper free resource existed in Persian for learning the basics.
+> [**Life · Robots · Liberty**](https://www.youtube.com/@mersadmasoud6536), a free Persian-language robotics series on YouTube, made because no proper free resource existed in Persian for learning the basics.
